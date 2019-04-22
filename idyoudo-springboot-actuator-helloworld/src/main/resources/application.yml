@@ -1,0 +1,15 @@
+server:
+  port: 8880
+
+management:
+  server:
+     port: 54511  # 指定监听端口，不指定则语server端口一直
+  security:
+    enabled: false #指定访问信息不进行用户验证
+
+info:
+  app:
+    name: "@project.name@" #从pom.xml中获取
+    description: "@project.description@"
+    version: "@project.version@"
+    spring-boot-version: "@project.parent.version@"
