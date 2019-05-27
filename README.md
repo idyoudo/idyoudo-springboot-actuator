@@ -1,5 +1,5 @@
 # idyoudo-springboot-actuator
-SpringBoot监控Actuator原理和实战
+[SpringBoot监控Actuator原理和实战](https://gitbook.cn/gitchat/activity/5cd233d16c7a6854ba3bae1e)
 
 总共分为六个子模块：
 - idyoudo-springboot-actuator-helloworld ：actuator初识
