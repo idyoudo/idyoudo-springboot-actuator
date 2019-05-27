@@ -8,3 +8,6 @@ SpringBoot监控Actuator原理和实战
 - idyoudo-springboot-actuator-shutdown： shutdown端点使用详解  
 - idyoudo-springboot-actuator-customendpoint：使用@Endpoint自定义端点
 - idyoudo-springboot-actuator-customendpoint-springfactory：自动装配自定义端点
+
+文章首发于gitchat，欢迎阅读
+- [Spring Boot监控Actuator原理和实战](https://gitbook.cn/gitchat/activity/5cd233d16c7a6854ba3bae1e)
